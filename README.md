@@ -1,4 +1,4 @@
-# RBCT Helicopter Dashboard Widget
+# RBCT Helicopter Dashboard Widget (Edge TX)
 
 **Author / 作者**: 雷恩 / Ryan Kuo
 
